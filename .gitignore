@@ -1,0 +1,13 @@
+# Build outputs and local archives
+.build*/
+dist/
+*.zip
+.DS_Store
+
+# Local development notes; public verification is docs/VALIDATION.md
+/AirDrop 顶部抽屉 PRD.md
+/验证记录.md
+/docs/0.4.0-交付与验证.md
+/docs/0.4.1-交付与验证.md
+/docs/2026-10-05-file-staging.md
+/docs/superpowers/
